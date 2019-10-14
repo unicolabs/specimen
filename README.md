@@ -1,8 +1,8 @@
 # specimen
 Artifacts to aid in developing and testing visual identities; kitchen sinks, test beds
 
-# [LICENSE](./LICENSE)
-Source in this project is covered under the MIT License. The MIT License is included as a copy in `./LICENSE`. 
+# Licenses
+Source in this project is covered under the MIT License. The MIT License is included as a copy in [`LICENSE`](./LICENSE). 
 
 Non-source assets, ©2019 Unico Labs, LLC; all rights reserved. Examples of "non-source assets" include, but are not limited to: documentation, discussions, and creative assets of any kind. 
 
